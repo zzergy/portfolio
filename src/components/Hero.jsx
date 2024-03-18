@@ -1,6 +1,4 @@
-import { motion } from 'framer-motion'
 import { styles } from '../styles'
-import { FigureCanvas } from './canvas'
 
 const Hero = () => {
   return (
@@ -13,14 +11,10 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>Hello, I'm <span className='text-[#915eff]'>Bogdana</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            This is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test textThis is a test text
+            A Frontend developer specializing in React. I build engaging digital experiences with clean code and sleek designs.
           </p>
         </div>
       </div>
-      <div className='flex justify-items-end w-full border'>
-      </div>
-
-      {/* <FigureCanvas /> */}
     </section>
   )
 }

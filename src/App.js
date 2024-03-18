@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Tech from "./components/Tech";
-import Works from "./components/Works";
+import Projects from "./components/Projects";
 import Feedbacks from "./components/Feedbacks";
 import Contact from "./components/Contact";
 import Stars from "./components/canvas/Stars";
@@ -20,7 +20,7 @@ const App = () => {
         <About />
         <Experience />
         <Tech />
-        <Works />
+        <Projects />
         <Feedbacks />
         <div className="relative z-0">
           <Contact />
