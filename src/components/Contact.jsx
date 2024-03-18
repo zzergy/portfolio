@@ -21,7 +21,7 @@ const Contact = () => {
     event.preventDefault();
     setLoading(true)
     emailjs.send('service_80g6hum',
-      'template_7zjfbvo',
+      'template_qm7w9rc',
       {
         form_name: form.name,
         to_name: "Bogdana Yaneva",
