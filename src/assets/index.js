@@ -1,5 +1,4 @@
 import logo from "./logo.svg";
-import creator from "./creator.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -18,10 +17,10 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import iba from './company/iba.jpeg'
 import thinkmarkets from './company/thinkmarkets.jpeg'
+import bsu from './company/bsu.jpeg'
 
 export {
   logo,
-  creator,
   web,
   github,
   menu,
@@ -38,5 +37,6 @@ export {
   typescript,
   threejs,
   iba,
-  thinkmarkets
+  thinkmarkets,
+  bsu
 };
