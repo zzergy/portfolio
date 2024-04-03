@@ -1,5 +1,4 @@
 import {
-    creator,
     web,
     javascript,
     typescript,
@@ -12,7 +11,8 @@ import {
     figma,
     threejs,
     iba,
-    thinkmarkets
+    thinkmarkets,
+    bsu
 } from "../assets";
 
 export const navLinks = [
@@ -79,18 +79,6 @@ const technologies = [
 
 const experiences = [
     {
-        title: "Junior Frontend Developer",
-        company_name: "IBA",
-        icon: iba,
-        iconBg: "#0065b1",
-        date: "June 2021 - May 2022",
-        points: [
-            'Coached and mentored junior team members to ensure their success.',
-            'Developed and maintained frontend applications',
-            'Collaborated closely with cross-functional teams to gather requirements, communicate effectively, and contribute to the design and architecture of the application.'
-        ],
-    },
-    {
         title: "React Frontend Developer",
         company_name: "ThinkMakrets",
         icon: thinkmarkets,
@@ -104,6 +92,30 @@ const experiences = [
             'Led the successful development and implementation of two key features within the application.'
         ],
     },
+    {
+        title: "Junior Frontend Developer",
+        company_name: "IBA",
+        icon: iba,
+        iconBg: "#0065b1",
+        date: "June 2021 - May 2022",
+        points: [
+            'Coached and mentored junior team members to ensure their success.',
+            'Developed and maintained frontend applications',
+            'Collaborated closely with cross-functional teams to gather requirements, communicate effectively, and contribute to the design and architecture of the application.'
+        ],
+    },
+    {
+        title: "Bachelor Degree in Software Engineering",
+        company_name: "Burgas Free University",
+        icon: bsu,
+        iconBg: "#fff",
+        date: "2016 - 2020",
+        points: [
+            'Coached and mentored junior team members to ensure their success.',
+            'Developed and maintained frontend applications',
+            'Collaborated closely with cross-functional teams to gather requirements, communicate effectively, and contribute to the design and architecture of the application.'
+        ],
+    }
 ];
 
 const testimonials = [
