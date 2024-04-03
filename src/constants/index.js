@@ -171,7 +171,7 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://zzergy.github.io/pixel-perfect/",
     },
     {
         name: "Yummy",
@@ -204,7 +204,7 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://zzergy.github.io/Yummy/#/",
     },
     {
         name: "Noted",
