@@ -17,16 +17,18 @@ const Contact = () => {
     setForm({ ...form, [name]: value })
   }
 
+
   const handleSubmit = (event) => {
     event.preventDefault();
     setLoading(true)
     emailjs.send('service_80g6hum',
       'template_qm7w9rc',
       {
-        form_name: form.name,
+        from_name: form.name,
         to_name: "Bogdana Yaneva",
-        form_email: form.email,
-        to_email: 'bogdana.yaneva@gmail.com'
+        from_email: form.email,
+        to_email: 'bogdana.yaneva@gmail.com',
+        message: form.message
       },
       'NfXzjZ17K8TL54r2D')
       .then(() => {
