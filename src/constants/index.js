@@ -140,7 +140,7 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Pixel Perfect",
+        name: "WIP: Pixel Perfect",
         description:
             "Web-based platform for drawing pixel art",
         tags: [
@@ -171,7 +171,8 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://zzergy.github.io/pixel-perfect/",
+        source_code_link: "https://github.com/zzergy/pixel-perfect",
+        projectLink: "https://zzergy.github.io/pixel-perfect/",
     },
     {
         name: "Yummy",
@@ -204,7 +205,8 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://zzergy.github.io/Yummy/#/",
+        source_code_link: "https://github.com/zzergy/Yummy",
+        projectLink: "https://zzergy.github.io/Yummy/#/"
     },
     {
         name: "Noted",
@@ -225,7 +227,8 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/zzergy/Noted",
+        projectLink: "https://zzergy.github.io/Noted/#/"
     },
     {
         name: "Otaku Fanart",
@@ -254,7 +257,8 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/zzergy/Otaku-Fanart",
+        projectLink: null
     },
 
 ];
