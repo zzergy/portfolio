@@ -15,8 +15,8 @@ const ProjectCard = ({ index, name, description, tags, image, source_code_link, 
       }}
         className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full'
       >
-        <div className="relative w-full h-[230px]">
-          <img onClick={() => projectLink && window.open(projectLink, '_blank')} src={image} alt={name} className="w-full h-full object-cover rounded-2xl cursor-pointer" />
+        <div className="relative w-full h-[230px] flex justify-center">
+          <img onClick={() => projectLink && window.open(projectLink, '_blank')} src={image} alt={name} className="object-contain rounded-2xl cursor-pointer" />
           <div className="absolute top-0 right-0 h-fit w-fit m-3">
             <div className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer" onClick={() => window.open(source_code_link, '_blank')}>
               <img src={github} alt="github" className="w-1/2 h-1/2 object-contain" />
