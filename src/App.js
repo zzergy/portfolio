@@ -17,10 +17,8 @@ const App = () => {
           <Navbar />
           <Hero />
         </div>
-        <About />
         <Experience />
         <Tech />
-        <Projects />
         <Feedbacks />
         <div className="relative z-0">
           <Contact />
@@ -28,7 +26,7 @@ const App = () => {
         </div>
       </div>
     </BrowserRouter>
-  )
-}
+  );
+};
 
 export default App;
