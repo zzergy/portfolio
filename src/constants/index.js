@@ -145,6 +145,7 @@ const testimonials = [
     testimonial:
       "I'm extremely pleased with Bogdana's work and want to take a moment to recognize her achievements and the impact shes had on our projects. From the very beginning, she stood out not only with solid technical skills but also with a proactive attitude and a genuine commitment to making processes and outcomes better for everyone involved. She consistently shares her perspective when it matters, asks the right questions, and doesn't shy away from taking initiative when something needs to move forward. Colleagues appreciate her support and collaboration, and clients are equally impressed by the quality and consistency of her work. Her communication skills are excellent, which makes collaboration smooth and productive, even in challenging situations. On the technical side, her code is clean, reliable, and thoughtfully structured. She approaches tasks with ownership, pays attention to detail, and looks for ways to improve things rather than just “get them done.” It's clear that she takes her work seriously, but also with the right balance of curiosity and openness to learning. What I value most is that Bogdana doesn't just focus on her own tasks, she has a broader perspective on the entire process. Whether it's suggesting improvements, supporting teammates, or stepping up when leadership is needed, she shows qualities that are rare to find. I'm genuinely glad to have the opportunity to work with her, and I look forward to seeing her grow further. With her mindset and dedication, I have no doubt she'll reach senior level and beyond.",
     name: "Stefan Dyankov",
+    linkedin: "https://www.linkedin.com/in/dyankov91/",
     designation: " Founder @WIARA | Senior Frontend Developer",
     company: "WIARA DAAS",
   },
@@ -152,12 +153,14 @@ const testimonials = [
     testimonial:
       "I'm excited to recommend Bogdana as a front-end developer. I've had the privilege of working alongside her and have been consistently impressed with her talents.Bogdana's attention to detail is unmatched, and her creative approach to problem-solving is truly refreshing. She consistently delivers top-notch code and is always open to new challenges. Her adaptability and ability to keep up with industry trends make her a valuable asset to any team.Bogdana's collaborative spirit and excellent communication skills make her a pleasure to work with. I have no doubt that she will continue to excel and make a positive impact wherever she goes.If you're looking for a dedicated and creative React developer, Bogdana is the right choice.Feel free to reach out to me if you have any questions.",
     name: "Panayot Stoyanov",
+    linkedin: "https://www.linkedin.com/in/panayotstoyanov/",
     designation: "Senior Product Designer",
     company: "ThinkMarkets",
   },
   {
     testimonial: `Focused on writing quality code and following good practices, Bogdana persists daily to get the job "well done" instead of just "done". Always seeking to learn more IT skills from any source like tutorials, documentation, and colleagues and patiently doing hard developer tasks, she has that sort of passion for frontend development that outputs good-looking UIs and solid software features.`,
     name: "Nikolai Bakardjiev",
+    linkedin: "https://www.linkedin.com/in/nikolai-bakardjiev-73350852/",
     designation: "Senior Frontend Developer",
     company: "ThinkMarkets",
   },
@@ -165,6 +168,7 @@ const testimonials = [
     testimonial:
       "Bogdana is a wonderful Developer and I have admired her since I have known her. She has excellent ideas and gives great solutions to problems. Working with her is very easy and communication is at a high level. She always strives for perfectionism.",
     name: "Emil Petrov",
+    linkedin: "https://www.linkedin.com/in/emilzdravkovpetrov/",
     designation: "Software Test Engineer",
     company: "Dormakaba",
   },
