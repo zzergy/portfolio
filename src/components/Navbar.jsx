@@ -42,7 +42,6 @@ const Navbar = () => {
       }`}
     >
       <div className="w-full flex justify-between items-center mx-auto">
-        {/*  for the div above max-w-7xl */}
         <Link
           className="flex items-center gap-2"
           to=""
@@ -84,7 +83,7 @@ const Navbar = () => {
           <div
             className={`${
               !toggle ? "hidden" : "flex"
-            } p-6 black-gradient absolute top-20 right-0 mx-4 my-2 min-w[140px] z-10 rounded-md`}
+            } p-6 bg-black-200 absolute top-20 right-0 mx-4 my-2 min-w[140px] z-10 rounded-md`}
           >
             <ul className="list-none flex justify-end items-start flex-col gap-4">
               {navLinks.map((link) => (
