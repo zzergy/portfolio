@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3d204bfd.css",
-    "main.js": "/portfolio/static/js/main.28aba112.js",
+    "main.css": "/portfolio/static/css/main.6df84251.css",
+    "main.js": "/portfolio/static/js/main.fe44e187.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/herobg.png": "/portfolio/static/media/herobg.ad33add2430e34307c33.png",
     "static/media/web.png": "/portfolio/static/media/web.c0cb2cc13791a26822d3.png",
     "static/media/github.png": "/portfolio/static/media/github.ed1c06d925fff0b57e32.png",
     "static/media/bsu.jpeg": "/portfolio/static/media/bsu.3702f2465f1d58427742.jpeg",
+    "static/media/wiara_daas.jpeg": "/portfolio/static/media/wiara_daas.376604734d24e7517a1a.jpeg",
     "static/media/logo.svg": "/portfolio/static/media/logo.842abfb99e954a5c51145e4de04cf97f.svg",
     "static/media/close.svg": "/portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
     "static/media/menu.svg": "/portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "static/media/threejs.svg": "/portfolio/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
     "index.html": "/portfolio/index.html",
-    "main.3d204bfd.css.map": "/portfolio/static/css/main.3d204bfd.css.map",
-    "main.28aba112.js.map": "/portfolio/static/js/main.28aba112.js.map",
+    "main.6df84251.css.map": "/portfolio/static/css/main.6df84251.css.map",
+    "main.fe44e187.js.map": "/portfolio/static/js/main.fe44e187.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d204bfd.css",
-    "static/js/main.28aba112.js"
+    "static/css/main.6df84251.css",
+    "static/js/main.fe44e187.js"
   ]
 }
